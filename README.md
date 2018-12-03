@@ -4,15 +4,11 @@ Pre Annoucement! ►► CRowdCLassic (CRCL) - Brings value to the technology
 
 What is CRowdCLassic project?
 
-Long story short: It is a successor and  of the Crowdcoin project network. They moved from Neoscrypt to another algorhytm so the old network was abandoned. A decission was made to continiue the support of it because the network prove herself to be relaible and trustworthy. But the main reason was to stand behind the original idea:
-To create a palce were people interested in crypto to meet people who want to share and develop this knowledge - to put it in layman`s terms- academy and ico platform. And even to broaden it - to create a social network for the crypto realm. 
-And at last: to put the technology where it belongs - because result the technology bring have to create the demand and not the value itself. 
+Long story short: It is a successor of the Crowdcoin project network. They moved from Neoscrypt to another algorhytm so the old network was abandoned. A decission was made to continiue the support of it because the network prove herself to be relaible and trustworthy. 
+But the main reason was to stand behind the original idea: to create a place were people interested in crypto meet people who want to share and develop this knowledge - to put it in layman`s terms- an academy and an ico platform. And even to broaden it - to create a social network for the crypto realm. 
+But not at last: to put the technology where it belongs - because what the technology brings to us have to create the demand and not the value itself. 
 
-So after a week of extencive research and serious decision making present to you next generation of coin CRowdCLassic
-
-How it works:
-Adopting Crowdcoin network
-Easy swap wallet.dat compatible. Just install new one
+So after a week of extencive research and serious decision making, this is the next generation of this project`s coin: CRowdCLassic.
 
 COIN SPECIFICATION:
 Name: CRowdCLassic
@@ -25,11 +21,11 @@ Max. Supply: 10,900,000
 Block Time: 120 seconds
 Spend: 10 confirmations
 Block: 100 confirmations
-Masternode Collateral: 1000 CRCL
-Block Reward: 20 CRCL, halving every year - next is coming around 22.12.18
+Block Reward: 20 CRCL, halving every year - next is coming around 22.12.18 (Don`t miss this opportunity, right ;)
 Reward distribution: 50% POW, 50% Masternode
-Premine: There were 200 000 coins left in an address from before the swap. There is unknown amount of coins collected from the swap also - this matter will be invetigated further.
-And as this may look scary now from the market PoV, it is considered a low risk on the long run. (This will be explained in detail later.)
+Masternode Collateral: 1000 CRCL
+Premine: There were 200 000 coins left in an address from before the swap. There is unknown amount of coins collected from the swap also - this matter will be investigated further and the decisions will be made according to the result of it.
+As this may look scary now from the market PoV, it is considered a low risk on the long run. (This will be explained in detail later.)
 
 How to get CRCL?
 
@@ -66,7 +62,6 @@ QUICK ROADMAP:
 IMPORTANT LINKS:
 There were enourmous amount of research and sleepless nights so all the pressing issues were resolved. But again: keep in mind that this is experimental software at this stage. Use on your own rirk. Think twice and always backup..
 Wallets: 
-
 Explorer: http://pool.crcl.dns-cloud.net/explorer/CRCL - it is basic but enough for now. The incoming one will be based on more soffisticated script like ciquidus or else. 
 Masternode Setup/Guide: 
 Website: https://crcl.dns-cloud.net/
