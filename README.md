@@ -4,10 +4,11 @@ Pre Annoucement! ►► CRowdCLassic (CRCL) - Brings value to the technology
 
 What is CRowdCLassic project?
 
-Long story short: It is a successor of the Crowdcoin project network. They moved from Neoscrypt to another algorhytm so the old network was abandoned. A decission was made to continiue the support of it because the network prove herself to be relaible and trustworthy. 
+Long story short: It is a successor of the Crowdcoin project network. They made a swap and moved from Neoscrypt to another algorhytm so the old network was abandoned. A decission was made to continiue the support of it because the network prove herself to be relaible and trustworthy one. 
 But the main reason was to stand behind the original idea: to create a place were people interested in crypto meet people who want to share and develop this knowledge - to put it in layman`s terms- an academy and an ico platform. And even to broaden it - to create a social network for the crypto realm. 
-But not at last: to put the technology where it belongs - because what the technology brings to us have to create the demand and not the value itself. 
-The project will be community driven for real and supported by donations at first (an address will be generated to donate directly or by pointing a miner) then with small dev fee in every block generated. 
+And at last but not at least: to put the technology where it belongs - because what the technology brings to us have to create the demand and not the value itself. 
+The project will be community driven for real and supported by donations at first (you can send to CLaUTqyiDcs1Hens3Qxpb7JSx6sKKTSjNn to donate directly or by pointing a miner to our official pool: http://pool.crcl.dns-cloud.net) then with small dev fee in every block generated. 
+It will be an anonymous effort until the support for this project get stronger. 
 
 So after a week of extencive research and serious decision making, this is the next generation of this project`s coin: CRowdCLassic.
 
@@ -50,6 +51,7 @@ QUICK ROADMAP:
  - a manual with explanation how to create a masternode. Done.
  - (eventually) a manual with explanation how to mine to a wallet - local or remote.
 3. An explorer has to be started using some scripts available. In the making.
+4. A website to present the project. In the making.
 4. Whitepaper to explain the project deeper. And Yellowpaper after that, filled with technical stuff to explain it further. 
 5. Complete the assessment of the project. 
 6. Moving to POW/POS/MN code.
@@ -61,17 +63,18 @@ QUICK ROADMAP:
 9. Hail everybody from the Moon. 
 
 IMPORTANT LINKS:
-There were enourmous amount of research and sleepless nights so all the pressing issues were resolved. But again: keep in mind that this is experimental software at this stage. Use on your own rirk. Think twice and always backup..
-Wallets: 
+There were enourmous amount of research and sleepless nights so all the pressing issues were resolved (see the commits in the repo for more info). But again: keep in mind that this is experimental software at this stage. Use on your own rirk. Think twice and always backup..
+New wallets: https://github.com/CRowdCLassic/crowdclassic-core/releases
+Old wallets for you to test and play with: https://github.com/CRowdCLassic/crowdclassic-core/releases/tag/1.1.1b
 Explorer: http://pool.crcl.dns-cloud.net/explorer/CRCL - it is basic but enough for now. The incoming one will be based on more soffisticated script like ciquidus or else. 
 Masternode Setup/Guide: 
-Website: https://crcl.dns-cloud.net/
+Website: https://crcl.dns-cloud.net/ - Temporary to show commitment, a new domain name will be bought.
 Github: https://github.com/CRowdCLassic
 DISCORD:  https://discord.gg/SbZN9e6
 Blog: https://medium.com/crowdclassic
 
-P.S. So the thing are a little off right now but will fall into place the nex few days.
+P.S. So the thing are a little off right now but everything will fall into place the next few days. It was a crazy ride..
 P.P.S. This topic is self-modarated.
-P.P.P.S. It will be an anonymous effort until the support for this project get stronger. This project has no connection with the previous owner whatsoever for the sake of this project. This is hard to be seen right now but maybe the time will prove this right. 
+P.P.P.S. This project has no connection with the previous owner whatsoever. Maybe it`s hard to believe now but the time will show. 
  
 ►► CRowdCLassic (CRCL) - Brings value to the technology
