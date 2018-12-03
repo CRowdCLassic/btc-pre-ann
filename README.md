@@ -72,6 +72,6 @@ Blog: https://medium.com/crowdclassic
 
 P.S. So the thing are a little off right now but will fall into place the nex few days.
 P.P.S. This topic is self-modarated.
-P.P.P.S. It will be an anonymous effort until the support for this project get stronger. This project has no connection with the previous owner whatsoever for the sake of this project. This is hard to be seen right now but will be prven with the time. 
+P.P.P.S. It will be an anonymous effort until the support for this project get stronger. This project has no connection with the previous owner whatsoever for the sake of this project. This is hard to be seen right now but maybe the time will prove this right. 
  
 ►► CRowdCLassic (CRCL) - Brings value to the technology
