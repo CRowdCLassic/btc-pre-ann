@@ -7,6 +7,7 @@ What is CRowdCLassic project?
 Long story short: It is a successor of the Crowdcoin project network. They moved from Neoscrypt to another algorhytm so the old network was abandoned. A decission was made to continiue the support of it because the network prove herself to be relaible and trustworthy. 
 But the main reason was to stand behind the original idea: to create a place were people interested in crypto meet people who want to share and develop this knowledge - to put it in layman`s terms- an academy and an ico platform. And even to broaden it - to create a social network for the crypto realm. 
 But not at last: to put the technology where it belongs - because what the technology brings to us have to create the demand and not the value itself. 
+The project will be community driven for real and supported by donations at first (an address will be generated to donate directly or by pointing a miner) then with small dev fee in every block generated. 
 
 So after a week of extencive research and serious decision making, this is the next generation of this project`s coin: CRowdCLassic.
 
@@ -25,7 +26,7 @@ Block Reward: 20 CRCL, halving every year - next is coming around 22.12.18 (Don`
 Reward distribution: 50% POW, 50% Masternode
 Masternode Collateral: 1000 CRCL
 Premine: There were 200 000 coins left in an address from before the swap. There is unknown amount of coins collected from the swap also - this matter will be investigated further and the decisions will be made according to the result of it.
-As this may look scary now from the market PoV, it is considered a low risk on the long run. (This will be explained in detail later.)
+As this may look scary now from the market PoV, it can be considered a low risk on the long run. (This will be explained in detail later.)
 
 How to get CRCL?
 
@@ -71,5 +72,6 @@ Blog: https://medium.com/crowdclassic
 
 P.S. So the thing are a little off right now but will fall into place the nex few days.
 P.P.S. This topic is self-modarated.
+P.P.P.S. It will be an anonymous effort until the support for this project get stronger. This project has no connection with the previous owner whatsoever for the sake of this project. This is hard to be seen right now but will be prven with the time. 
  
 ►► CRowdCLassic (CRCL) - Brings value to the technology
